@@ -1,0 +1,53 @@
+name: 'update stars'
+
+on:
+
+  schedule:
+
+    -
+
+      cron: '00 00 * * *'
+
+jobs:
+
+  build:
+
+    name: 'stargazed'
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      -
+
+        name: 'checkout'
+
+        uses: actions/checkout@v1
+
+      -
+
+        name: 'install node'
+
+        uses: actions/setup-node@v1
+
+        with:
+
+          node-version: 13.x
+
+      -
+
+        name: 'install stargazed'
+
+        run: 'npm install --global stargazed'
+
+      -
+
+        name: 'stargazed commit'
+
+        env:
+
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+
+        run:
+
+          stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "github-actions " --message "(>0<；)SENPAI!" --sort
