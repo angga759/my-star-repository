@@ -11,26 +11,26 @@ on:
 
 
 jobs:
-	github-actions:
-	runs-on: ubuntu-latest
-	steps:
+   github-actions:
+   runs-on: ubuntu-latest
+    steps:
 
-		- uses: actions/checkout@v2
-			with:
-				persist-credentials: false
-				fetch-depth: 0
+       - uses: actions/checkout@v2
+         with:
+           persist-credentials: false
+           fetch-depth: 0
 
-		- name: Install Node js
-			uses: actions/setup-node@v1
-			with:
-				node-version: 13.x
+       - name: Install Node js
+         uses: actions/setup-node@v1
+         with:
+           node-version: 13.x
 
-		- name: 'install stargazed'
-			run: 'npm install --global stargazed'
-			
-		-name: 'stargazed commit'
-			run: stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "github-actions " --message "(>0<；)SENPAI!" --sort
-			with:
-				github_token: ${{ secrets.GITHUB_TOKEN }}
-			env:
-				github_token: ${{ secrets.GITHUB_TOKEN }}
+       - name: install stargazed
+         run: 'npm install --global stargazed'
+
+       -name: 'stargazed commit'
+        run: stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "github-actions " --message "(>0<；)SENPAI!" --sort
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
