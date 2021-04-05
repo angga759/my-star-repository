@@ -27,9 +27,9 @@ jobs:
        - name: install stargazed
          run: 'npm install --global stargazed'
 
-       -name: 'stargazed commit'
-        run: stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "github-actions " --message "(>0<；)SENPAI!" --sort
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+       - name: 'stargazed commit'
+         run: stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "github-actions " --message "(>0<；)SENPAI!" --sort
+         with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
+         env:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
