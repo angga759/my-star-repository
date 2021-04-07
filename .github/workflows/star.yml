@@ -21,7 +21,5 @@ jobs:
         run: 'npm install --global stargazed'
       -
         name: 'stargazed commit'
-        env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
         run:
-          stargazed --username  "update bintang ( ╹▽╹ )" --token ${GITHUB_TOKEN} --repo "github-actions" --message "☆ ～('▽^人)" --sort
+          stargazed --username  "update bintang ( ╹▽╹ )" --token ${{ secrets.GITHUB_TOKEN }} --repo "github-actions" --message "☆ ～('▽^人)" --sort
