@@ -24,4 +24,4 @@ jobs:
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
         run:
-          stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "stars" --message "☆ ～('▽^人)" --sort
+          stargazed --username  "angga759" --token ${GITHUB_TOKEN} --repo "github-actions" --message "☆ ～('▽^人)" --sort
