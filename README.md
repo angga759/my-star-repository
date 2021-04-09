@@ -50,7 +50,7 @@
 | 1 |  [twitch](https://github.com/Flam3rboy/twitch) | A twitch viewer bot and multi account chat automation | Flam3rboy | 6 |
 | 2 |  [Delete-Your-Youtube-Comments](https://github.com/RubenPonce/Delete-Your-Youtube-Comments) | Youtube doesn&#39;t provide a way to delete all your comments, so I made one! | RubenPonce | 14 |
 | 3 |  [twitter-together](https://github.com/gr2m/twitter-together) | :bird: A GitHub action to tweet from a repository | gr2m | 353 |
-| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13821 |
+| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13822 |
 | 5 |  [NHentai-GDrive-Uploader](https://github.com/minhlk/NHentai-GDrive-Uploader) | A simple Node.js app to upload images from NHentai to your google drive storage | minhlk | 2 |
 | 6 |  [game-kuis-bendera](https://github.com/alfianokt/game-kuis-bendera) |  | alfianokt | 4 |
 | 7 |  [anime](https://github.com/technext/anime) |  | technext | 3 |
@@ -111,25 +111,25 @@
 | 4 |  [ASCII-generator](https://github.com/uvipen/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | uvipen | 950 |
 | 5 |  [NaufalBot](https://github.com/NaufalBlaze/NaufalBot) | This Bot For Line \| NaufalBot | NaufalBlaze | 2 |
 | 6 |  [YouTubeViews-](https://github.com/Bitwise-01/YouTubeViews-) | YouTube view bot | Bitwise-01 | 302 |
-| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13236 |
+| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13237 |
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116630 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116639 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74244 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74246 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | Tool for visualizing GitHub profiles | tipsy | 19296 |
+| 1 |  [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | Tool for visualizing GitHub profiles | tipsy | 19297 |
 | 2 |  [homepage](https://github.com/vuejs-id/homepage) | Source of code vuejs.id - powered by VuePress | vuejs-id | 30 |
 
 **[⬆ Back to Index](#-contents)**
