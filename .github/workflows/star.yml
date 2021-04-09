@@ -22,4 +22,4 @@ jobs:
       -
         name: 'stargazed commit'
         run:
-          stargazed --username  "angga759" --token ${{ secrets.GITHUB_TOKEN }} --repo "github-actions" --message "☆ ～('▽^人)" --sort
+          stargazed --username  "angga759" --token ${{ secrets.GITHUB_TOKEN }} --repo "my-star-repository" --message "☆ ～('▽^人)" --sort
