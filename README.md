@@ -50,7 +50,7 @@
 | 1 |  [twitch](https://github.com/Flam3rboy/twitch) | A twitch viewer bot and multi account chat automation | Flam3rboy | 6 |
 | 2 |  [Delete-Your-Youtube-Comments](https://github.com/RubenPonce/Delete-Your-Youtube-Comments) | Youtube doesn&#39;t provide a way to delete all your comments, so I made one! | RubenPonce | 14 |
 | 3 |  [twitter-together](https://github.com/gr2m/twitter-together) | :bird: A GitHub action to tweet from a repository | gr2m | 353 |
-| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13821 |
+| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13822 |
 | 5 |  [NHentai-GDrive-Uploader](https://github.com/minhlk/NHentai-GDrive-Uploader) | A simple Node.js app to upload images from NHentai to your google drive storage | minhlk | 2 |
 | 6 |  [game-kuis-bendera](https://github.com/alfianokt/game-kuis-bendera) |  | alfianokt | 4 |
 | 7 |  [anime](https://github.com/technext/anime) |  | technext | 3 |
@@ -82,7 +82,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | sdras | 12885 |
+| 1 |  [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | sdras | 12886 |
 | 2 |  [game-kuis-bendera](https://github.com/Nobuyaki/game-kuis-bendera) |  | Nobuyaki | 2 |
 | 3 |  [auto-commit](https://github.com/angga759/auto-commit) |  | angga759 | 1 |
 | 4 |  [auto-commit](https://github.com/mazipan/auto-commit) | 🌳 Making green your Github stats, powered by Github Actions | mazipan | 61 |
@@ -115,14 +115,14 @@
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116676 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116679 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74247 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74249 |
 
 **[⬆ Back to Index](#-contents)**
 
