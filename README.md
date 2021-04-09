@@ -39,7 +39,7 @@
 | 1 |  [cloudflare-bypasser](https://github.com/Kamikadze4GAME/cloudflare-bypasser) | A simple Node.js module to bypass Cloudflare anti-DDOS page | Kamikadze4GAME | 48 |
 | 2 |  [Restful-API-PHP](https://github.com/superXdev/Restful-API-PHP) | A simple CRUD RESTful API with PHP &amp; AJAX | superXdev | 1 |
 | 3 |  [api.jquery.com](https://github.com/jquery/api.jquery.com) | API documentation for jQuery Core | jquery | 314 |
-| 4 |  [repo-badges](https://github.com/dwyl/repo-badges) | :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project. | dwyl | 2388 |
+| 4 |  [repo-badges](https://github.com/dwyl/repo-badges) | :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project. | dwyl | 2389 |
 | 5 |  [RuangAdmin](https://github.com/indrijunanda/RuangAdmin) | RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4 | indrijunanda | 156 |
 
 **[⬆ Back to Index](#-contents)**
@@ -105,17 +105,17 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tiktok-downloader](https://github.com/krypton-byte/tiktok-downloader) | Tiktok Downloader/Scraper using requests &amp; bs4 | krypton-byte | 2 |
+| 1 |  [tiktok-downloader](https://github.com/krypton-byte/tiktok-downloader) | Tiktok Downloader/Scraper using requests &amp; bs4 | krypton-byte | 3 |
 | 2 |  [Youtube-First-Comment-Bot](https://github.com/BOT-HAT/Youtube-First-Comment-Bot) | A bot for automatically post comment when a youtube channel upload a new video. | BOT-HAT | 58 |
-| 3 |  [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) | An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] | mukulhase | 1705 |
+| 3 |  [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) | An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] | mukulhase | 1706 |
 | 4 |  [ASCII-generator](https://github.com/uvipen/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | uvipen | 949 |
 | 5 |  [NaufalBot](https://github.com/NaufalBlaze/NaufalBot) | This Bot For Line \| NaufalBot | NaufalBlaze | 2 |
 | 6 |  [YouTubeViews-](https://github.com/Bitwise-01/YouTubeViews-) | YouTube view bot | Bitwise-01 | 302 |
-| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13239 |
+| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13240 |
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116692 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116699 |
 
 **[⬆ Back to Index](#-contents)**
 
