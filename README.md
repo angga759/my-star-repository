@@ -55,9 +55,9 @@
 | 6 |  [game-kuis-bendera](https://github.com/alfianokt/game-kuis-bendera) |  | alfianokt | 4 |
 | 7 |  [anime](https://github.com/technext/anime) |  | technext | 3 |
 | 8 |  [node-line-bot-api](https://github.com/tejitak/node-line-bot-api) | Node js LINE Bot API Wrapper | tejitak | 57 |
-| 9 |  [node_passport_login](https://github.com/bradtraversy/node_passport_login) | Node.js login, registration and access control using Express and Passport | bradtraversy | 1363 |
+| 9 |  [node_passport_login](https://github.com/bradtraversy/node_passport_login) | Node.js login, registration and access control using Express and Passport | bradtraversy | 1364 |
 | 10 |  [botui](https://github.com/botui/botui) | 🤖 A JavaScript framework to create conversational UIs | botui | 2538 |
-| 11 |  [github-push-action](https://github.com/ad-m/github-push-action) | GitHub actions to push back to repository eg. updated code | ad-m | 599 |
+| 11 |  [github-push-action](https://github.com/ad-m/github-push-action) | GitHub actions to push back to repository eg. updated code | ad-m | 600 |
 | 12 |  [XSS-Challenge](https://github.com/cak/XSS-Challenge) | A simple Cross-Site Scripting (XSS) challenge with multiple contexts and filters. | cak | 6 |
 | 13 |  [mothereff.in](https://github.com/mathiasbynens/mothereff.in) | Web developer tools | mathiasbynens | 874 |
 | 14 |  [NodeExpressDriveUpload](https://github.com/gauti123456/NodeExpressDriveUpload) | This is a sample app to upload files to google drive using node.js and express | gauti123456 | 5 |
@@ -115,7 +115,7 @@
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116644 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116651 |
 
 **[⬆ Back to Index](#-contents)**
 
