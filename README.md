@@ -111,11 +111,11 @@
 | 4 |  [ASCII-generator](https://github.com/uvipen/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | uvipen | 949 |
 | 5 |  [NaufalBot](https://github.com/NaufalBlaze/NaufalBot) | This Bot For Line \| NaufalBot | NaufalBlaze | 2 |
 | 6 |  [YouTubeViews-](https://github.com/Bitwise-01/YouTubeViews-) | YouTube view bot | Bitwise-01 | 302 |
-| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13241 |
+| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13242 |
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116748 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116751 |
 
 **[⬆ Back to Index](#-contents)**
 
