@@ -58,7 +58,7 @@
 | 1 |  [twitch](https://github.com/Flam3rboy/twitch) | A twitch viewer bot and multi account chat automation | Flam3rboy | 6 |
 | 2 |  [Delete-Your-Youtube-Comments](https://github.com/RubenPonce/Delete-Your-Youtube-Comments) | Youtube doesn&#39;t provide a way to delete all your comments, so I made one! | RubenPonce | 14 |
 | 3 |  [twitter-together](https://github.com/gr2m/twitter-together) | :bird: A GitHub action to tweet from a repository | gr2m | 353 |
-| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13822 |
+| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13823 |
 | 5 |  [NHentai-GDrive-Uploader](https://github.com/minhlk/NHentai-GDrive-Uploader) | A simple Node.js app to upload images from NHentai to your google drive storage | minhlk | 2 |
 | 6 |  [game-kuis-bendera](https://github.com/alfianokt/game-kuis-bendera) |  | alfianokt | 4 |
 | 7 |  [anime](https://github.com/technext/anime) |  | technext | 3 |
@@ -115,7 +115,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [tiktok-downloader](https://github.com/krypton-byte/tiktok-downloader) | Tiktok Downloader/Scraper using requests &amp; bs4 | krypton-byte | 3 |
 | 2 |  [Youtube-First-Comment-Bot](https://github.com/BOT-HAT/Youtube-First-Comment-Bot) | A bot for automatically post comment when a youtube channel upload a new video. | BOT-HAT | 58 |
-| 3 |  [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) | An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] | mukulhase | 1706 |
+| 3 |  [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) | An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] | mukulhase | 1707 |
 | 4 |  [ASCII-generator](https://github.com/uvipen/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | uvipen | 949 |
 | 5 |  [NaufalBot](https://github.com/NaufalBlaze/NaufalBot) | This Bot For Line \| NaufalBot | NaufalBlaze | 2 |
 | 6 |  [YouTubeViews-](https://github.com/Bitwise-01/YouTubeViews-) | YouTube view bot | Bitwise-01 | 302 |
@@ -123,14 +123,14 @@
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3222 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116828 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116844 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74257 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74260 |
 
 **[⬆ Back to Index](#-contents)**
 
