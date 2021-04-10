@@ -57,13 +57,13 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [twitch](https://github.com/Flam3rboy/twitch) | A twitch viewer bot and multi account chat automation | Flam3rboy | 6 |
 | 2 |  [Delete-Your-Youtube-Comments](https://github.com/RubenPonce/Delete-Your-Youtube-Comments) | Youtube doesn&#39;t provide a way to delete all your comments, so I made one! | RubenPonce | 14 |
-| 3 |  [twitter-together](https://github.com/gr2m/twitter-together) | :bird: A GitHub action to tweet from a repository | gr2m | 353 |
-| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13823 |
+| 3 |  [twitter-together](https://github.com/gr2m/twitter-together) | :bird: A GitHub action to tweet from a repository | gr2m | 354 |
+| 4 |  [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) | JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html | auth0 | 13824 |
 | 5 |  [NHentai-GDrive-Uploader](https://github.com/minhlk/NHentai-GDrive-Uploader) | A simple Node.js app to upload images from NHentai to your google drive storage | minhlk | 2 |
 | 6 |  [game-kuis-bendera](https://github.com/alfianokt/game-kuis-bendera) |  | alfianokt | 4 |
 | 7 |  [anime](https://github.com/technext/anime) |  | technext | 3 |
 | 8 |  [node-line-bot-api](https://github.com/tejitak/node-line-bot-api) | Node js LINE Bot API Wrapper | tejitak | 57 |
-| 9 |  [node_passport_login](https://github.com/bradtraversy/node_passport_login) | Node.js login, registration and access control using Express and Passport | bradtraversy | 1365 |
+| 9 |  [node_passport_login](https://github.com/bradtraversy/node_passport_login) | Node.js login, registration and access control using Express and Passport | bradtraversy | 1366 |
 | 10 |  [botui](https://github.com/botui/botui) | 🤖 A JavaScript framework to create conversational UIs | botui | 2538 |
 | 11 |  [github-push-action](https://github.com/ad-m/github-push-action) | GitHub actions to push back to repository eg. updated code | ad-m | 603 |
 | 12 |  [XSS-Challenge](https://github.com/cak/XSS-Challenge) | A simple Cross-Site Scripting (XSS) challenge with multiple contexts and filters. | cak | 6 |
@@ -83,7 +83,7 @@
 ## Lua
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [waifu2x](https://github.com/nagadomi/waifu2x) | Image Super-Resolution for Anime-Style Art | nagadomi | 20915 |
+| 1 |  [waifu2x](https://github.com/nagadomi/waifu2x) | Image Super-Resolution for Anime-Style Art | nagadomi | 20916 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -123,14 +123,14 @@
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3222 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116872 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116881 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74261 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74262 |
 
 **[⬆ Back to Index](#-contents)**
 
