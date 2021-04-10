@@ -66,7 +66,7 @@
 | 17 |  [Selfbot-Whatsapp](https://github.com/fckveza/Selfbot-Whatsapp) | Selfbot for Example Requests VHtear api | fckveza | 26 |
 | 18 |  [phone-specs-api](https://github.com/azharimm/phone-specs-api) | Phone specifications API based on gsmarena | azharimm | 6 |
 | 19 |  [termux-wabot](https://github.com/MhankBarBar/termux-wabot) | ........ | MhankBarBar | 79 |
-| 20 |  [Baileys](https://github.com/adiwajshing/Baileys) | Lightweight full-featured typescript/javascript WhatsApp Web API | adiwajshing | 525 |
+| 20 |  [Baileys](https://github.com/adiwajshing/Baileys) | Lightweight full-featured typescript/javascript WhatsApp Web API | adiwajshing | 526 |
 | 21 |  [WhatsAsena](https://github.com/TheCloverly/WhatsAsena) |  | TheCloverly | 2 |
 | 22 |  [Whatsapp-Botto-Re](https://github.com/SomnathDas/Whatsapp-Botto-Re) | Whatsapp Botto: Re is an anime-themed whatsapp bot | SomnathDas | 53 |
 
@@ -115,14 +115,14 @@
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
 | 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3222 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116813 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116821 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74256 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74257 |
 
 **[⬆ Back to Index](#-contents)**
 
