@@ -75,7 +75,7 @@
 ## Lua
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [waifu2x](https://github.com/nagadomi/waifu2x) | Image Super-Resolution for Anime-Style Art | nagadomi | 20914 |
+| 1 |  [waifu2x](https://github.com/nagadomi/waifu2x) | Image Super-Resolution for Anime-Style Art | nagadomi | 20915 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -113,16 +113,16 @@
 | 6 |  [YouTubeViews-](https://github.com/Bitwise-01/YouTubeViews-) | YouTube view bot | Bitwise-01 | 302 |
 | 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13242 |
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
-| 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
+| 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3220 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116781 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116794 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74252 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74255 |
 
 **[⬆ Back to Index](#-contents)**
 
