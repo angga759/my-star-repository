@@ -55,7 +55,7 @@
 | 6 |  [game-kuis-bendera](https://github.com/alfianokt/game-kuis-bendera) |  | alfianokt | 4 |
 | 7 |  [anime](https://github.com/technext/anime) |  | technext | 3 |
 | 8 |  [node-line-bot-api](https://github.com/tejitak/node-line-bot-api) | Node js LINE Bot API Wrapper | tejitak | 57 |
-| 9 |  [node_passport_login](https://github.com/bradtraversy/node_passport_login) | Node.js login, registration and access control using Express and Passport | bradtraversy | 1364 |
+| 9 |  [node_passport_login](https://github.com/bradtraversy/node_passport_login) | Node.js login, registration and access control using Express and Passport | bradtraversy | 1365 |
 | 10 |  [botui](https://github.com/botui/botui) | 🤖 A JavaScript framework to create conversational UIs | botui | 2538 |
 | 11 |  [github-push-action](https://github.com/ad-m/github-push-action) | GitHub actions to push back to repository eg. updated code | ad-m | 603 |
 | 12 |  [XSS-Challenge](https://github.com/cak/XSS-Challenge) | A simple Cross-Site Scripting (XSS) challenge with multiple contexts and filters. | cak | 6 |
@@ -111,18 +111,18 @@
 | 4 |  [ASCII-generator](https://github.com/uvipen/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | uvipen | 949 |
 | 5 |  [NaufalBot](https://github.com/NaufalBlaze/NaufalBot) | This Bot For Line \| NaufalBot | NaufalBlaze | 2 |
 | 6 |  [YouTubeViews-](https://github.com/Bitwise-01/YouTubeViews-) | YouTube view bot | Bitwise-01 | 302 |
-| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13242 |
+| 7 |  [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | alievk | 13243 |
 | 8 |  [proxy_server_heroku](https://github.com/krypton-byte/proxy_server_heroku) |  | krypton-byte | 1 |
-| 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3220 |
+| 9 |  [wifijammer](https://github.com/DanMcInerney/wifijammer) | Continuously jam all wifi clients/routers | DanMcInerney | 3221 |
 | 10 |  [PocongRunner](https://github.com/ibnusyawall/PocongRunner) | Let&#39;s play Pocong runner! | ibnusyawall | 1 |
-| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116794 |
+| 11 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 116802 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74255 |
+| 1 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 74256 |
 
 **[⬆ Back to Index](#-contents)**
 
